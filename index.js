@@ -6,8 +6,8 @@ app.use(express.urlencoded({ extended: true }))
 
 const response = {
 	is_success: true,
-	user_id: 'shaurya_dhawan_23042003',
-	email: 'shaurya1305.be21@chitkara.edu.in',
+	user_id: 'khushi_sharma_2448',
+	email: 'khushi2448.be21@chitkara.edu.in',
 	roll_number: 2110991305,
 	odd_numbers: [],
 	even_numbers: [],
